@@ -1,0 +1,65 @@
+{
+  "identifier" : "8F3B1C42-0001-4A00-9000-FURCARDSTIPS",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "1.00",
+      "familyShareable" : false,
+      "internalID" : "8F3B1C42-1001-4A00-9000-FURCARDSTIP1",
+      "localizations" : [
+        {
+          "description" : "A small tip to support Furcards development.",
+          "displayName" : "Small tip",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "furcards.tip.1",
+      "referenceName" : "Small tip",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "5.00",
+      "familyShareable" : false,
+      "internalID" : "8F3B1C42-1005-4A00-9000-FURCARDSTIP5",
+      "localizations" : [
+        {
+          "description" : "A generous tip to support Furcards development.",
+          "displayName" : "Generous tip",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "furcards.tip.5",
+      "referenceName" : "Generous tip",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "10.00",
+      "familyShareable" : false,
+      "internalID" : "8F3B1C42-1010-4A00-9000-FURCARDSTIP0",
+      "localizations" : [
+        {
+          "description" : "A big tip to support Furcards development.",
+          "displayName" : "Big tip",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "furcards.tip.10",
+      "referenceName" : "Big tip",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "",
+    "_developerTeamID" : "",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 0,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : []
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

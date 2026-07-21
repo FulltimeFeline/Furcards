@@ -1,0 +1,15 @@
+{
+  "name": "furcards-backend",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Static site for furcards.app: legal pages + Android alpha download. The app itself is serverless (phone-to-phone BLE).",
+  "license": "UNLICENSED",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "helmet": "^7.1.0"
+  }
+}

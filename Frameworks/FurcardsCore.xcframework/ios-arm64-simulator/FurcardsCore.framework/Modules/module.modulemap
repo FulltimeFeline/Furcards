@@ -1,0 +1,8 @@
+framework module "FurcardsCore" {
+    umbrella header "FurcardsCore.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
